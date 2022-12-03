@@ -1,3 +1,18 @@
+No arquivo Script.JS, troque a URL para o IP printado no Serial Monitor
+
+![image](https://user-images.githubusercontent.com/87043469/205418523-2a0b2c57-3bc8-4dc1-b3ea-034ce76c164c.png)
+
+
+
+
+
+
+
+
+
+
+
+
 # EXERCÍCIOS
 Unificando os autoestudos de Construção de endpoints embarcados e a Revisão com Node.js:
 
