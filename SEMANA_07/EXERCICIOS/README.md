@@ -1,7 +1,7 @@
 # INSTRUÇÃO
-1º Baixe a pasta "Front"
+1º Baixe a pasta "Front" <br>
 2º No arquivo Script.js, troque a URL atual pelo IP printado no Serial Monitor:
-![image](https://user-images.githubusercontent.com/87043469/205418523-2a0b2c57-3bc8-4dc1-b3ea-034ce76c164c.png)
+![image](https://user-images.githubusercontent.com/87043469/205418523-2a0b2c57-3bc8-4dc1-b3ea-034ce76c164c.png) <br>
 3º Abra o Live Server ou apenas abra o arquivo index.html.
 
 
